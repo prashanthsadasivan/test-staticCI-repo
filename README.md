@@ -1,4 +1,3 @@
 test-staticCI-repo
 ==================
 
-push
