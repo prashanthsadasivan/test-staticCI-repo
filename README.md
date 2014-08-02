@@ -1,3 +1,3 @@
-test-staticCI-repo
+test-staticCI-repoj
 ==================
 
