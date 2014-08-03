@@ -30,7 +30,6 @@
 				]
 		}
 	],
-
 	"hello.psd" : [
 		{
 			"name" : "hello",
@@ -73,7 +72,7 @@
                     {
                         "action" : "rotate",
                         "target" : 0
-                    },
+                    }
                 ]
         },
         {
@@ -87,7 +86,7 @@
                     {
                         "action" : "rotate",
                         "target" : 90
-                    },
+                    }
                 ]
         },
         {
@@ -101,7 +100,7 @@
                     {
                         "action" : "rotate",
                         "target" : 180
-                    },
+                    }
                 ]
         },
         {
@@ -115,8 +114,8 @@
                     {
                         "action" : "rotate",
                         "target" : 270
-                    },
+                    }
                 ]
-        },
+        }
     ]
 }
