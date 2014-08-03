@@ -33,7 +33,7 @@
     "ic_launcher.psd" : [
         {
             "name" : "launcher_small",
-            "description" : "Small Icon for coinbase"
+            "description" : "Small Icon for coinbase",
             "steps" : 
                 [
                     {
@@ -44,7 +44,7 @@
         },
         {
             "name" : "launcher_medium",
-            "description" : "Medium Icon for coinbase"
+            "description" : "Medium Icon for coinbase",
             "steps" : 
                 [
                     {
@@ -55,7 +55,7 @@
         },
         {
             "name" : "launcher_large",
-            "description" : "Large Icon for coinbase"
+            "description" : "Large Icon for coinbase",
             "steps" : 
                 [
                     {
@@ -64,7 +64,7 @@
                     }
                 ]
         },
-    ]
+    ],
 	"hello.psd" : [
 		{
 			"name" : "hello",
