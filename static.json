@@ -80,21 +80,6 @@
 				]
 		}
 	],
-	"bg.psd" : [
-		{
-			"name" : "bg",
-			"steps" :
-				[
-					{
-						"action" : "scale",
-						"target" : 600
-					},
-                    {
-                        "action": "grayscale"
-                    }
-				]
-		}
-	],
     "arrow.psd" : [
         {
             "name" : "arrow_up",
