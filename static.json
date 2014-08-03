@@ -38,7 +38,10 @@
 					{
 						"action" : "scale",
 						"target" : 200
-					}
+					},
+                    {
+                        "action": "grayscale",
+                    },
 				]
 		}
 	]
