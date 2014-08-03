@@ -45,5 +45,20 @@
                     }
 				]
 		}
+	],
+	"bg.psd" : [
+		{
+			"name" : "hello",
+			"steps" :
+				[
+					{
+						"action" : "scale",
+						"target" : 600
+					},
+                    {
+                        "action": "grayscale"
+                    }
+				]
+		}
 	]
 }
