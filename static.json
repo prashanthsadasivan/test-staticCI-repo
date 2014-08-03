@@ -30,6 +30,41 @@
 				]
 		}
 	],
+    "ic_launcher.psd" : [
+        {
+            "name" : "launcher_small",
+            "description" : "Small Icon for coinbase"
+            "steps" : 
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 40
+                    }
+                ]
+        },
+        {
+            "name" : "launcher_medium",
+            "description" : "Medium Icon for coinbase"
+            "steps" : 
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 80
+                    }
+                ]
+        },
+        {
+            "name" : "launcher_large",
+            "description" : "Large Icon for coinbase"
+            "steps" : 
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 120
+                    }
+                ]
+        },
+    ]
 	"hello.psd" : [
 		{
 			"name" : "hello",
