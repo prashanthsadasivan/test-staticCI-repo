@@ -6,7 +6,6 @@
 			"steps" : 
 				[
 					{
-
 						"action" : "convert",
 						"target" : "png"
 					},
