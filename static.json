@@ -1,6 +1,5 @@
 {
     "repo_type" : "regular",
-
     "builds" : {
         "hello2.psd" : [
             {
