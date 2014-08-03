@@ -40,8 +40,8 @@
 						"target" : 200
 					},
                     {
-                        "action": "grayscale",
-                    },
+                        "action": "grayscale"
+                    }
 				]
 		}
 	]
