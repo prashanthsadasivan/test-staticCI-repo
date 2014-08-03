@@ -60,5 +60,63 @@
                     }
 				]
 		}
-	]
+	],
+    "arrow.psd" : [
+        {
+            "name" : "arrow_up",
+            "steps" :
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 80
+                    },
+                    {
+                        "action" : "rotate",
+                        "target" : 0
+                    }
+                ]
+        },
+        {
+            "name" : "arrow_right",
+            "steps" :
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 80
+                    },
+                    {
+                        "action" : "rotate",
+                        "target" : 90
+                    }
+                ]
+        },
+        {
+            "name" : "arrow_down",
+            "steps" :
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 80
+                    },
+                    {
+                        "action" : "rotate",
+                        "target" : 180
+                    }
+                ]
+        },
+        {
+            "name" : "arrow_left",
+            "steps" :
+                [
+                    {
+                        "action" : "scale",
+                        "target" : 80
+                    },
+                    {
+                        "action" : "rotate",
+                        "target" : 270
+                    }
+                ]
+        },
+    ]
 }
