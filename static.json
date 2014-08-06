@@ -145,7 +145,7 @@
                     [
                         {
                             "action" : "scale",
-                            "target" : 80
+                            "target" : 280
                         },
                         {
                             "action" : "rotate",
