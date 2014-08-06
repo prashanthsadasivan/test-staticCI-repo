@@ -138,6 +138,20 @@
                             "target" : 270
                         }
                     ]
+            },
+            {
+                "name" : "arrow_up_left",
+                "steps" :
+                    [
+                        {
+                            "action" : "scale",
+                            "target" : 80
+                        },
+                        {
+                            "action" : "rotate",
+                            "target" : 310
+                        }
+                    ]
             }
         ]
     }
