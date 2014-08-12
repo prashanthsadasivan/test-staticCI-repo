@@ -4,7 +4,7 @@
     hello2.psd: 
       - 
         name: "header"
-        description: "This is the official logo of static!"
+        description: "This is the official logo of this company!"
         steps: 
           - 
             action: "convert"
