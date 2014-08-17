@@ -43,7 +43,7 @@
         steps: 
           - 
             action: "scale"
-            target: 120
+            target: 2120
     hello.psd: 
       - 
         name: "hello"
