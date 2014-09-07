@@ -81,12 +81,3 @@
           - 
             action: "rotate"
             target: 180
-      - 
-        name: "arrow_left"
-        steps: 
-          - 
-            action: "scale"
-            target: 80
-          - 
-            action: "rotate"
-            target: 270
