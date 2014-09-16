@@ -64,7 +64,7 @@
             action: "rotate"
             target: 0
       - 
-        name: "arrow_right"
+        name: "arrow_left"
         steps: 
           - 
             action: "scale"
@@ -82,7 +82,7 @@
             action: "rotate"
             target: 180
       - 
-        name: "arrow_left"
+        name: "arrow_right"
         steps: 
           - 
             action: "scale"
