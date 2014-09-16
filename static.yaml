@@ -86,7 +86,7 @@
         steps: 
           - 
             action: "scale"
-            target: 200
+            target: 80
           - 
             action: "rotate"
             target: 270
