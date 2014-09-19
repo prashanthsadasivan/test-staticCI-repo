@@ -44,15 +44,6 @@
           - 
             action: "scale"
             target: 2120
-    hello.psd:
-      -
-        name: "hello"
-        steps:
-          -
-            action: "scale"
-            target: 200
-          -
-            action: "grayscale"
     arrow.psd: 
       - 
         name: "arrow_up"
