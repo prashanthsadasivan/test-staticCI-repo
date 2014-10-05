@@ -90,7 +90,7 @@
           - 
             action: "rotate"
             target: 270
-   prod_arrow.psd: 
+    prod_arrow.psd: 
       - 
         name: "prod_arrow_right"
         steps: 
