@@ -90,3 +90,13 @@
           - 
             action: "rotate"
             target: 270
+   prod_arrow.psd: 
+      - 
+        name: "arrow_right"
+        steps: 
+          - 
+            action: "scale"
+            target: 80
+          - 
+            action: "rotate"
+            target: 270
