@@ -80,13 +80,13 @@
             target: 80
           - 
             action: "rotate"
-            target: 180
+            target: 80
       - 
         name: "arrow_right"
         steps: 
           - 
             action: "scale"
-            target: 180
+            target: 80
           - 
             action: "rotate"
             target: 270
