@@ -92,7 +92,7 @@
             target: 270
    prod_arrow.psd: 
       - 
-        name: "arrow_right"
+        name: "prod_arrow_right"
         steps: 
           - 
             action: "scale"
