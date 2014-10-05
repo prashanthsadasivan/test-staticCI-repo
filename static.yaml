@@ -96,7 +96,13 @@
         steps: 
           - 
             action: "scale"
-            target: 180
+            target: 80
           - 
             action: "rotate"
-            target: 270
+            target: 180
+      - 
+        name: "prod_arrow_left"
+        steps: 
+          - 
+            action: "scale"
+            target: 80
